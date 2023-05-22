@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: red;
+    font-size: 6vh;
+}  
+
+h2{
+    text-align: left;
+    color: blue;
+    font-size: 4vh;
+}
+
+#titreArticle2{
+    text-align: right;
+    color : green;
+    text-decoration: underline;
+}
+
+p{
+    background-color: lightgray;
+}
+
+#par3{
+background-color: lightpink;
+}
+
+strong{
+    color: yellowgreen;
+    font-weight: 100;
+}
+
+em{
+text-decoration: underline;
+font-style: normal;
+color: orange;
+font-size: 3vh;
+}
